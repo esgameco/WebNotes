@@ -4,5 +4,5 @@ A git repository consisting of notes relating to web development-- both client-s
 
 ## Table of Contents:
 
-1. Client-side
+1. Client side
     - [React](client/react/react.md)
