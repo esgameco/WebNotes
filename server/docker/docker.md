@@ -2,4 +2,5 @@
 
 ## Table of Contents
 
-1. [Basic Docker](./basic.md)
+1. [Install](install.md)
+2. [Basic Docker](basic.md)
