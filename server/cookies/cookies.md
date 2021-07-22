@@ -1,10 +1,8 @@
 # Cookies
 
-<!-- Create a file for each module -->
+## Table of Contents
 
-Possible cookie modules:
-1. https://www.npmjs.com/package/cookie-parser
-    - Express middleware (app.use)
-2. https://www.npmjs.com/package/@types/cookie
-3. https://www.npmjs.com/package/@types/js-cookie
-    - Browser use
+1. JS Modules
+    - [Cookie-parser](cookie-parser.md) - express middleware
+    - [Cookie](cookie.md)
+    - [Js-cookie](js-cookie.md) - browser
