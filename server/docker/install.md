@@ -1,12 +1,12 @@
 # Install Docker
 
-Desktop
+### Desktop
 
 ```
 https://www.docker.com/products/docker-desktop
 ```
 
-Server
+### Server
 
 ```
 https://docs.docker.com/engine/install/

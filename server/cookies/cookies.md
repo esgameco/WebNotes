@@ -3,6 +3,6 @@
 ## Table of Contents
 
 1. JS Modules
-    - [Cookie-parser](cookie-parser.md) - express middleware
-    - [Cookie](cookie.md)
-    - [Js-cookie](js-cookie.md) - browser
+    - [Cookie-parser](modules/cookie-parser.md) - express middleware
+    - [Cookie](modules/cookie.md)
+    - [Js-cookie](modules/js-cookie.md) - browser
