@@ -3,5 +3,3 @@ site_url: http://www.chancevodnoy.me/webnotes/
 
 theme:
   name: material
-  features:
-    - navigation.instant
