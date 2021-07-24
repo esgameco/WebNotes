@@ -4,5 +4,5 @@ A git repository consisting of notes relating to web development-- both client-s
 
 To start, run: 
 ```
-yarn docz dev
+mkdocs serve
 ```
