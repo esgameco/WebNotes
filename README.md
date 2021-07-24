@@ -1,8 +1,15 @@
-# WebNotes
+# Home
 
-A git repository consisting of notes relating to web development-- both client-side and server-side.
+A repository of notes related to web development.
 
-To start, run: 
-```
-mkdocs serve
-```
+## Setup
+
+#### Install modules
+
+> pip install -r requirements.txt
+
+#### Run Locally
+> mkdocs serve
+
+#### Deploy to github pages
+> mkdocs gh-deploy
