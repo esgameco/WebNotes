@@ -6,7 +6,7 @@
 import React from 'react'
 import ReactDom from 'react-dom'
 
-const jsx: React.JSX = 
+const jsx: React.JSX = <h1>Test</h1>;
 
 ReactDom.render(
     jsx,
