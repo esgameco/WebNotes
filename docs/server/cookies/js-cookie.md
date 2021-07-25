@@ -1,6 +1,6 @@
 # Js-Cookie Module
 
-More Info: https://www.npmjs.com/package/@types/js-cookie
+More Info: [https://www.npmjs.com/package/@types/js-cookie](https://www.npmjs.com/package/@types/js-cookie])
 
 ## Install
 

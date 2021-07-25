@@ -4,11 +4,9 @@
 
 It seems to be a web framework intended for sever-side rendering of react components.
 
-## Problems
+## Data Fetching
 
-I haven't done too much with it yet, but from what I can see everything is done server-side.  
-As far as I can tell, there is no ability for the client to send ajax requests to the server.  
-This looks to me like an issue for usability since it would probably be faster to get data from the server than to render and entire page and send it instead.  
+Data can be fetched client-side by using the api at pages/api.
 
 ## Benefits
 

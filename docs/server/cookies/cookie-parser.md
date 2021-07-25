@@ -1,6 +1,6 @@
 # Cookie Parser Module
 
-More Info: https://www.npmjs.com/package/@types/cookie-parser
+More Info: [https://www.npmjs.com/package/@types/cookie-parser](https://www.npmjs.com/package/@types/cookie-parser)
 
 ## Install
 
